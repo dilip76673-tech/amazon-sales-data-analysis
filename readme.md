@@ -1,5 +1,10 @@
 # 📊 Amazon Sales Data Analysis
 
+
+(## 🚀 Start Here
+➡️ Open **`notebook/Amazon_Sales_Analysis.ipynb`** to explore the complete analysis from start to finish.)
+
+
 ## 📌 Project Overview
 
 This project analyzes Amazon Sales data using Python and Data Analysis libraries. The goal is to extract business insights from sales data through data cleaning, exploratory data analysis (EDA), and visualization.
